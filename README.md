@@ -64,7 +64,14 @@ Tecnologias:
 - Chart.js
 
 ---
+## 📬 Contato
 
-## 📸 Preview
+Caso queira conversar sobre projetos ou oportunidades:
 
-Você pode adicionar prints dos projetos aqui.
+- GitHub: https://github.com/flavimellow
+- LinkedIn: https://www.linkedin.com/in/flaviene-melo-bb774a216
+- Email: flavimellow@gmail.com
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela no repositório.
