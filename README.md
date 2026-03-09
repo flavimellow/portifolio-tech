@@ -31,14 +31,11 @@ Este repositório reúne alguns projetos que mostram minha evolução e experiê
 - React
 - Python
 
-*(adicione ou remova conforme suas tecnologias)*
-
 ---
 
 ## 📂 Projetos do portfólio
 
 ### 🌐 Projeto 1 – Site Responsivo
-Descrição breve do projeto.
 
 Tecnologias:
 - HTML
@@ -48,7 +45,6 @@ Tecnologias:
 ---
 
 ### ⚙️ Projeto 2 – Automação
-Descrição breve.
 
 Tecnologias:
 - Python
@@ -57,7 +53,6 @@ Tecnologias:
 ---
 
 ### 📊 Projeto 3 – Dashboard
-Descrição breve.
 
 Tecnologias:
 - React
